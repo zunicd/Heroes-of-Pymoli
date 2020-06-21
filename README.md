@@ -1,6 +1,6 @@
 # Heroes-of-Pymoli
 
-## Objective
+### Objective
 
 The objective of this project is to analyze demographic and purchasing information about the fictional game **Heroes of Pymoli**. Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.
 
@@ -67,7 +67,7 @@ The data analysis report, that breaks down the game's purchasing data into meani
 
  
 
-## Tools / Techniques Used: 
+### Tools / Techniques Used: 
 
 - Python
 - Pandas
@@ -75,7 +75,7 @@ The data analysis report, that breaks down the game's purchasing data into meani
 
  
 
-## About data
+### About Data
 
 The csv file, *Resources/purchase_data.csv*, with demographic and purchasing information about Heroes of Pymoli video game has been provided.
 
